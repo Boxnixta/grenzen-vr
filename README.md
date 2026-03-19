@@ -1,20 +1,28 @@
-<p align="center">
-    <img src="img/Grenzen_AngryM.png" width="70%">
-</p>
-
 # GRENZEN (BOUNDARIES)
 **VR Experience for Meta Quest 2 | Empathy Through Embodied Perspective-Taking**
 
+---
+
 > **Author:** Bonita Fiona von Gizycki  
 > **Status:** Final University Project (MVP Complete)
+
+---
+
+- **Playable Build (APK):** [LINK ZUR OWNCLOUD ZIP](https://owncloud.gwdg.de/index.php/s/VfRyY0rO5wQsKv2)
+- **Instruction:** To install the APK on Meta Quest 2, please use SideQuest or ADB.
+- **Source Code:** [LINK ZUM GITHUB](https://github.com/Boxnixta/grenzen-vr.git)
+  - [Link zu den großen Assets](https://owncloud.gwdg.de/index.php/s/Z4s28vfMcbQ0h68)
+---
+
+![alt text](img/Grenzen_AngryM.png)
 
 ## 🎯 Goal
 "GRENZEN" is a VR experience that places the player in the body of a significantly smaller person. Walking through the authentic streets of Kottbusser Tor (Berlin), players experience street harassment and boundary violations. The goal is to build empathy for those who live this reality every day.
 
 <p align="center">
-    <img src="img/Grenzen_StartIntro.png" width="50%">
-    <img src="img/Grenzen-boii.png" width="50%">
-    <img src="img/Grenzen-Outro.png" width="50%">
+    <img src="img/Grenzen_StartIntro.png" width="70%">
+    <img src="img/Grenzen-boii.png" width="70%">
+    <img src="img/Grenzen-Outro.png" width="70%">
 </p>
 
 
